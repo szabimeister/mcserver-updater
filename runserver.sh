@@ -1,2 +1,2 @@
 !/bin/bash
-python3 runserver.py
+python3 runserverscript.py
